@@ -131,3 +131,33 @@ ML / DL Models
 LLMs / AI Agents
         ↓
 Databases / Vector Stores
+
+📊 Model Evaluation
+<p align="center"> <img src="assets/model_metrics.png" width="80%" /> </p>
+
+Accuracy
+
+Precision
+
+Recall
+
+F1-Score
+
+Confusion Matrix
+
+📚 Learning Philosophy
+
+Learning improves with clarity, not complexity.
+I focus on understanding why systems work, not just how to run them.
+
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Coder-786hub&style=for-the-badge" /> </p>
+⭐ Support
+
+If you find this profile useful:
+
+⭐ Star repositories
+
+🍴 Fork & experiment
+
+💬 Share feedback
