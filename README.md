@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aftab Alam</h1>
 
 <p align="center">
-  <img src="assets/banner_ai.png" alt="AI Banner" width="100%" />
+  <img src="assets/banner_ai.jpg" alt="AI Banner" width="100%" />
 </p>
 
 <p align="center">
